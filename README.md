@@ -2,7 +2,7 @@
 ### Basic principles of style transfer
 In this notebook we implement a style transfer method, which is originally described in the paper [Image Style Transfer Using Convolutional Neural Networks, by Gatys, Ecker and Bethge](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gatys_Image_Style_Transfer_CVPR_2016_paper.pdf). Please  have a look into this document in order to get some initial understanding. 
 
-<img src='style_transfer.png' width=80% />
+<img src='style_transfer.png' width=80%>
 
 Our target is to "transfer" the optical **style** of one image to another image by preserving the **content** of the original image. How to do that with a neural network? 
 
